@@ -152,5 +152,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:4.3.17.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.17.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:4.3.17.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: io.jmnarloch:ribbon-discovery-filter-spring-cloud-starter:2.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-ribbon:1.4.4.RELEASE" level="project" />
   </component>
 </module>
