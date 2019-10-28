@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="credit-api" />
+        <module name="credit-service" />
+        <module name="eureka-server" />
+        <module name="inventory-api" />
+        <module name="inventory-service" />
+        <module name="order-service" />
+        <module name="wms-api" />
+        <module name="wms-service" />
+        <module name="zuul-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="credit-api" target="1.5" />
+      <module name="credit-service" target="1.6" />
+      <module name="eureka-server" target="1.6" />
+      <module name="inventory-api" target="1.5" />
+      <module name="inventory-service" target="1.6" />
+      <module name="order-service" target="1.6" />
+      <module name="wms-api" target="1.5" />
+      <module name="wms-service" target="1.6" />
+      <module name="zuul-gateway" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="zuul-gateway" options="" />
+    </option>
+  </component>
+</project>

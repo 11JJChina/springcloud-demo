@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/credit-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/credit-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inventory-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inventory-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-gateway" charset="UTF-8" />
+  </component>
+</project>

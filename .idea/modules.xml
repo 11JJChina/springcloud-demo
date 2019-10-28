@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/credit-api/credit-api.iml" filepath="$PROJECT_DIR$/credit-api/credit-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit-service/credit-service.iml" filepath="$PROJECT_DIR$/credit-service/credit-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-api/inventory-api.iml" filepath="$PROJECT_DIR$/inventory-api/inventory-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-demo.iml" filepath="$PROJECT_DIR$/.idea/springcloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms-api/wms-api.iml" filepath="$PROJECT_DIR$/wms-api/wms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms-service/wms-service.iml" filepath="$PROJECT_DIR$/wms-service/wms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-gateway/zuul-gateway.iml" filepath="$PROJECT_DIR$/zuul-gateway/zuul-gateway.iml" />
+    </modules>
+  </component>
+</project>
